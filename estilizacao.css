@@ -1,8 +1,14 @@
 .cabecalho{
 
-    background-color: red;
+    background-color: blue;
+display: flex;
+justify-content: space-around;
+align-items: center;
 }
 *{
    margin: 0%;
 padding: 0%;
+}
+.lista-cabecalho{
+    color: white;
 }
