@@ -2,7 +2,7 @@
 
 .cabecalho{
 
-    background-color: blue;
+    background-color: #424242;
 display: flex;
 justify-content: space-around;
 align-items: center;
@@ -14,7 +14,7 @@ padding: 0%;
 .lista-cabecalho{
     color: rgb(10, 2, 2)
 }
-.lista-cabecalho{ background-color: #1267f1 ;
+.lista-cabecalho{ background-color: #000102, #0f82ac;
 }
 
 .primeira-parte {
