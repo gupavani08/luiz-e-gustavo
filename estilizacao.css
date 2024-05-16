@@ -59,7 +59,30 @@ padding: 0%;
     .foto-estudante2{
         background-image: linear-gradient(#0f82ac);
         color: #0f82ac;
-        width: 500px;
+        width: 100x;
     }
-        
-
+.relevo{
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}        
+.cu{
+    width: 10%;
+}
+.foto-estudante3{
+    width: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: centers;
+}
+a:hover{
+    color: yellow;
+    text-decoration: white;
+}
+a:hover {
+    color: yellow;
+}
+.item-lista-cabecalho{
+    color:white
+}
